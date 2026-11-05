@@ -16,7 +16,8 @@ from configs import RESULTS
 SEED = 1
 MATMUL_SIZE = 4096
 N_REPEATS = 5
-PACKAGES = ["numpy", "pandas", "pyarrow", "scikit-learn", "statsmodels", "transformers", "huggingface_hub"]
+PACKAGES = ["numpy", "pandas", "pyarrow", "scikit-learn", "scipy", "statsmodels",
+            "transformers", "huggingface_hub", "anndata", "h5py", "matplotlib", "torch"]
 
 device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
 machine = socket.gethostname()

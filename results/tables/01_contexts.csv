@@ -1,0 +1,249 @@
+Tissue,Cell type,n_genes,dropped_by_rule,kept
+Endometrium,glandular cells,13478,False,True
+Stomach,glandular cells,13478,False,True
+Endometrium,cells in endometrial stroma,13477,False,True
+Heart muscle,cardiomyocytes,13476,False,True
+Testis,Leydig cells,13476,False,True
+Liver,hepatocytes,13475,False,True
+Spleen,cells in red pulp,13475,False,True
+Smooth muscle,smooth muscle cells,13475,False,True
+Thyroid gland,glandular cells,13474,False,True
+Cerebral cortex,neuronal cells,13472,False,True
+Cerebral cortex,glial cells,13472,False,True
+Cerebral cortex,endothelial cells,13472,False,True
+Skeletal muscle,myocytes,13468,False,True
+Hippocampus,glial cells,13466,False,True
+Kidney,cells in glomeruli,13465,False,True
+Pancreas,exocrine glandular cells,13463,False,True
+Adrenal gland,glandular cells,13463,False,True
+Lung,macrophages,13462,False,True
+Cerebral cortex,neuropil,13460,True,False
+Salivary gland,glandular cells,13459,False,True
+Tonsil,non-germinal center cells,13456,False,True
+Hippocampus,neuronal cells,13451,False,True
+Caudate,glial cells,13450,False,True
+Ovary,ovarian stroma cells,13448,False,True
+Soft tissue,fibroblasts,13443,False,True
+Esophagus,squamous epithelial cells,13434,False,True
+Prostate,glandular cells,13425,False,True
+Gallbladder,glandular cells,13415,False,True
+Liver,cholangiocytes,13394,False,True
+Epididymis,glandular cells,13390,False,True
+Lymph node,non-germinal center cells,13387,False,True
+Urinary bladder,urothelial cells,13385,False,True
+Vagina,squamous epithelial cells,13382,False,True
+Spleen,cells in white pulp,13373,False,True
+Bone marrow,hematopoietic cells,13361,False,True
+Skin,melanocytes,13345,False,True
+Breast,glandular cells,13339,False,True
+Adipose tissue,adipocytes,13336,False,True
+Breast,myoepithelial cells,13324,False,True
+Tonsil,germinal center cells,13303,False,True
+Oral mucosa,squamous epithelial cells,13283,False,True
+Caudate,neuronal cells,13258,False,True
+Seminal vesicle,glandular cells,13226,False,True
+Colon,endothelial cells,13191,False,True
+Breast,adipocytes,13180,False,True
+Tonsil,squamous epithelial cells,13074,False,True
+Parathyroid gland,glandular cells,12934,False,True
+Pancreas,pancreatic endocrine cells,12882,False,True
+Placenta,trophoblastic cells,12751,False,True
+Cervix,glandular cells,12691,False,True
+Lymph node,germinal center cells,12683,False,True
+Cerebellum,cells in molecular layer,12539,False,True
+Cerebellum,cells in granular layer,12527,False,True
+Cerebellum,Purkinje cells,12525,False,True
+Cervix,squamous epithelial cells,12516,False,True
+Soft tissue,peripheral nerve,12434,False,True
+Kidney,cells in tubules,12419,False,True
+Duodenum,glandular cells,12337,False,True
+Small intestine,glandular cells,12319,False,True
+Colon,glandular cells,12276,False,True
+Rectum,glandular cells,12267,False,True
+Appendix,glandular cells,12254,False,True
+Skin,keratinocytes,11879,False,True
+Skin,Langerhans,11868,False,True
+Skin,epidermal cells,11838,False,True
+Skin,fibroblasts,11810,False,True
+Appendix,lymphoid tissue,11756,False,True
+Fallopian tube,glandular cells,11664,False,True
+Lung,alveolar cells,11359,False,True
+Bronchus,respiratory epithelial cells,11337,False,True
+Nasopharynx,respiratory epithelial cells,11195,False,True
+Colon,peripheral nerve/ganglion,10765,False,True
+Placenta,decidual cells,10323,False,True
+Soft tissue,chondrocytes,8255,False,True
+Testis,cells in seminiferous ducts,8035,False,True
+Ovary,follicle cells,7755,False,True
+Testis,sertoli cells,5441,False,False
+Testis,elongated or late spermatids,5441,False,False
+Testis,pachytene spermatocytes,5441,False,False
+Testis,peritubular cells,5441,False,False
+Testis,preleptotene spermatocytes,5441,False,False
+Testis,round or early spermatids,5441,False,False
+Testis,spermatogonia cells,5441,False,False
+Lung,endothelial cells,2114,False,False
+Lung,alveolar cells type II,2114,False,False
+Lung,alveolar cells type I,2114,False,False
+Fallopian tube,ciliated cells (cell body),1794,False,False
+Fallopian tube,ciliated cells (tip of cilia),1793,False,False
+Fallopian tube,non-ciliated cells,1792,False,False
+Fallopian tube,ciliated cells (cilia axoneme),1792,False,False
+Fallopian tube,ciliated cells (ciliary rootlets),1792,False,False
+Bronchus,basal cells,1729,False,False
+Bronchus,ciliated cells (cell body),1722,False,False
+Bronchus,ciliated cells (tip of cilia),1719,False,False
+Bronchus,ciliated cells (cilia axoneme),1719,False,False
+Bronchus,ciliated cells (ciliary rootlets),1719,False,False
+Bronchus,goblet cells,1716,False,False
+Nasopharynx,basal cells,1644,False,False
+Nasopharynx,ciliated cells (cell body),1626,False,False
+Nasopharynx,ciliated cells (ciliary rootlets),1586,False,False
+Nasopharynx,ciliated cells (cilia axoneme),1566,False,False
+Nasopharynx,ciliated cells (tip of cilia),1565,False,False
+Nasopharynx,goblet cells,1525,False,False
+Skin,endothelial cells,1476,False,False
+Skin,cells in granular layer,1476,False,False
+Skin,cells in basal layer,1476,False,False
+Skin,cells in corneal layer,1476,False,False
+Skin,extracellular matrix,1476,False,False
+Skin,lymphocytes,1476,False,False
+Skin,cells in spinous layer,1476,False,False
+Skin,fibrohistiocytic cells,1476,False,False
+Skin,vascular mural cells,1476,False,False
+Skin,langerhans cells,1476,False,False
+Small intestine,goblet cells,1149,False,False
+Small intestine,enterocytes - Microvilli,1149,False,False
+Small intestine,enterocytes,1149,False,False
+Colon,enterocytes,1148,False,False
+Colon,goblet cells,1148,False,False
+Colon,endocrine cells,1147,False,False
+Colon,mucosal lymphoid cells,1147,False,False
+Small intestine,endocrine cells,1147,False,False
+Rectum,enterocytes,1146,False,False
+Rectum,mucosal lymphoid cells,1146,False,False
+Rectum,goblet cells,1146,False,False
+Rectum,endocrine cells,1146,False,False
+Rectum,enterocytes - Microvilli,1141,False,False
+Colon,enterocytes - Microvilli,1140,False,False
+Duodenum,goblet cells,1135,False,False
+Duodenum,endocrine cells,1135,False,False
+Duodenum,enterocytes - Microvilli,1135,False,False
+Appendix,goblet cells,1135,False,False
+Appendix,enterocytes,1134,False,False
+Duodenum,enterocytes,1134,False,False
+Colon,fibroblasts,1133,False,False
+Appendix,endocrine cells,1131,False,False
+Appendix,enterocytes - Microvilli,1124,False,False
+Rectum,fibroblasts,1121,False,False
+Duodenum,paneth cells,1109,False,False
+Rectum,endothelial cells,1084,False,False
+Appendix,non-germinal center cells,1068,False,False
+Kidney,proximal tubules (cell body),1063,False,False
+Kidney,distal tubules,1062,False,False
+Kidney,proximal tubules (microvilli),1062,False,False
+Kidney,collecting ducts,1061,False,False
+Kidney,bowman's capsule,1056,False,False
+Small intestine,paneth cells,1039,False,False
+Appendix,germinal center cells,909,False,False
+Cerebellum,synaptic glomeruli - core,901,False,False
+Cerebellum,molecular layer - neuropil,901,False,False
+Cerebellum,GLUC cells - nucleus,900,False,False
+Cerebellum,processes in molecular layer,900,False,False
+Cerebellum,molecular layer cells - cytoplasm/membrane,900,False,False
+Cerebellum,granular cells - cytoplasm/membrane,900,False,False
+Cerebellum,molecular layer cells - nucleus,900,False,False
+Cerebellum,granular cells - nucleus,900,False,False
+Cerebellum,Bergmann glia - cytoplasm/membrane,900,False,False
+Cerebellum,synaptic glomeruli - capsule,900,False,False
+Cerebellum,processes in granular layer,900,False,False
+Cerebellum,Bergmann glia - nucleus,900,False,False
+Cerebellum,GLUC cells - cytoplasm/membrane,900,False,False
+Cerebellum,Purkinje cells - dendrites,899,False,False
+Cerebellum,Purkinje cells - cytoplasm/membrane,899,False,False
+Cerebellum,Purkinje cells - nucleus,899,False,False
+Cerebellum,white matter cells - cytoplasm/membrane,785,False,False
+Cerebellum,white matter cells - nucleus,784,False,False
+Cerebellum,processes in white matter,784,False,False
+Skin,hair follicles,755,False,False
+Rectum,peripheral nerve/ganglion,740,False,False
+Duodenum,glands of Brunner,736,False,False
+Placenta,cytotrophoblasts,729,False,False
+Placenta,syncytiotrophoblasts - cell body,721,False,False
+Placenta,endothelial cells,721,False,False
+Placenta,syncytiotrophoblasts - microvilli,721,False,False
+Placenta,hofbauer cells,686,False,False
+Skin,sebaceous glands,497,False,False
+Skin,eccrine glands,431,False,False
+Skin,arrector pili muscle cells,336,False,False
+Endometrium,ciliated epithelial cells,120,False,False
+Endometrium,macrophages,120,False,False
+Endometrium,endothelial cells,120,False,False
+Endometrium,smooth muscle cells,120,False,False
+Endometrium,nonciliated luminal epithelial cells,120,False,False
+Endometrium,nonciliated glandular epithelial cells,120,False,False
+Endometrium,lymphocytes,120,False,False
+Endometrium,stromal fibroblasts,120,False,False
+Retina,nerve fiber layer,117,False,False
+Retina,photoreceptor cells,117,False,False
+Retina,inner nuclear layer,117,False,False
+Retina,ganglion cells ,116,False,False
+Retina,limiting membrane,116,False,False
+Retina,inner plexiform layer,114,False,False
+Retina,outer plexiform layer,114,False,False
+Efferent ducts,ciliated cells,113,False,False
+Retina,pigment epithelial cells,100,False,False
+Choroid plexus,ependymal cells,65,False,False
+Cerebral cortex,neuronal projections,65,False,False
+Pituitary gland,cells in anterior ,64,False,False
+Cerebral cortex,synapses,61,False,False
+Adrenal gland,cells in zona glomerulosa,60,False,False
+Adrenal gland,medullary cells,60,False,False
+Adrenal gland,cells in zona reticularis,59,False,False
+Adrenal gland,cells in zona fasciculata,59,False,False
+Placenta,syncytiotrophoblasts,50,False,False
+Hair,cells in external root sheath,47,False,False
+Hair,cells in cortex/medulla,45,False,False
+Hair,cells in cuticle,44,False,False
+Hair,cells in internal root sheath,44,False,False
+Caudate,neuronal projections,42,False,False
+Caudate,synapses,42,False,False
+Hypothalamus,neuronal projections,41,False,False
+Hypothalamus,glial cells,40,False,False
+Hypothalamus,synapses,40,False,False
+Hypothalamus,neuronal cells,40,False,False
+Thymus,cortical cells,33,False,False
+Thymus,medullary cells,32,False,False
+Hippocampus,neuronal projections,30,False,False
+Ovary,oocytes,30,False,False
+Ovary,stroma,30,False,False
+Ovary,granulosa cells,30,False,False
+Ovary,endothelial cells,30,False,False
+Hippocampus,synapses,30,False,False
+Eye,lens fiber cells,28,False,False
+Eye,corneal epithelial cells,26,False,False
+Eye,hyaloid membrane,26,False,False
+Eye,lens epithelial cells,25,False,False
+Skin,sebaceous cells,13,False,False
+Skin,sweat ducts,13,False,False
+Skin,secretory cells,13,False,False
+Lactating breast,lactating glandular cells,10,False,False
+Cartilage,chondrocytes,9,False,False
+Lactating breast,ductal cells,9,False,False
+Pituitary gland,cells in posterior ,7,False,False
+Cerebellum,neuronal projections,5,False,False
+Cerebellum,synapses,5,False,False
+Dorsal raphe,neuronal cells,4,False,False
+Dorsal raphe,synapses,4,False,False
+Cerebellum,glial cells,4,False,False
+Cerebellum,cells in dentate nucleus,4,False,False
+Dorsal raphe,glial cells,4,False,False
+Dorsal raphe,neuronal projections,4,False,False
+Brown adipose tissue,adipocytes,3,False,False
+Placenta,extravillous trophoblasts,3,False,False
+Ovary,atretic follicle,2,False,False
+Sole of foot,epidermal cells,2,False,False
+Substantia nigra,synapses,1,False,False
+Substantia nigra,neuronal projections,1,False,False
+Substantia nigra,neuronal cells,1,False,False
+Substantia nigra,glial cells,1,False,False
