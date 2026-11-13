@@ -1,6 +1,6 @@
 import numpy as np
 import pandas as pd
-
+from sklearn.metrics import log_loss, roc_auc_score
 
 def within_auc_parts(y, p, groups):
     # Per group, u = number of positive-negative pairs ranked correctly (ties count half) and w = n_pos * n_neg.
@@ -20,3 +20,12 @@ def within_auc(y, p, groups):
     auc = float(parts["u"].sum() / parts["w"].sum())
     assert 0 <= auc <= 1, auc
     return auc, len(parts)
+
+
+def metrics(y, p, g, c):
+    return {
+        "log_loss": log_loss(y, p),
+        "auc": roc_auc_score(y, p),
+        "auc_within_gene": within_auc(y, p, g)[0],
+        "auc_within_context": within_auc(y, p, c)[0],
+    }
