@@ -1,6 +1,17 @@
 import numpy as np
 import pandas as pd
 from sklearn.metrics import log_loss, roc_auc_score
+from configs import HEAVY
+
+
+def load_labels(split="split_pair"):
+    labels = pd.read_parquet(HEAVY / "01_labels.parquet")
+    genes = np.sort(labels["gene"].unique())
+    contexts = np.sort(labels["context"].unique())
+    labels["g"] = np.searchsorted(genes, labels["gene"])
+    labels["c"] = np.searchsorted(contexts, labels["context"])
+    parts = {name: labels[labels[split] == name].reset_index(drop=True) for name in ["train", "val", "test"]}
+    return labels, genes, contexts, parts
 
 def within_auc_parts(y, p, groups):
     # Per group, u = number of positive-negative pairs ranked correctly (ties count half) and w = n_pos * n_neg.

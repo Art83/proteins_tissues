@@ -8,7 +8,7 @@ import torch.nn as nn
 import torch.nn.functional as F
 from sklearn.metrics import log_loss, roc_auc_score
 
-from utils import within_auc
+from utils import within_auc, load_labels
 from configs import (TABLES, HEAVY)
 
 SPLIT = "split_pair"
@@ -22,11 +22,7 @@ torch.manual_seed(SEED)
 print("device", device, "machine", machine, "torch", torch.__version__)
 
 # 1. data as integer indices
-labels = pd.read_parquet(HEAVY / "01_labels.parquet")
-genes = np.sort(labels["gene"].unique())
-contexts = np.sort(labels["context"].unique())
-labels["g"] = np.searchsorted(genes, labels["gene"])
-labels["c"] = np.searchsorted(contexts, labels["context"])
+labels, genes, contexts, parts = load_labels(SPLIT)
 print("genes", len(genes), "contexts", len(contexts))
 
 parts = {name: labels[labels[SPLIT] == name] for name in ["train", "val", "test"]}
