@@ -1,0 +1,76 @@
+context,nearest,similarity,second
+Duodenum | glandular cells,Small intestine | glandular cells,0.705537042735911,Colon | glandular cells
+Small intestine | glandular cells,Duodenum | glandular cells,0.705537042735911,Rectum | glandular cells
+Rectum | glandular cells,Colon | glandular cells,0.6974242815571812,Duodenum | glandular cells
+Colon | glandular cells,Rectum | glandular cells,0.6974242815571812,Duodenum | glandular cells
+Lymph node | non-germinal center cells,Tonsil | non-germinal center cells,0.594396521326529,Lymph node | germinal center cells
+Tonsil | non-germinal center cells,Lymph node | non-germinal center cells,0.594396521326529,Tonsil | germinal center cells
+Hippocampus | glial cells,Caudate | glial cells,0.5823778890431438,Cerebral cortex | glial cells
+Caudate | glial cells,Hippocampus | glial cells,0.5823778890431438,Cerebral cortex | glial cells
+Appendix | glandular cells,Rectum | glandular cells,0.5483833006059076,Colon | glandular cells
+Cerebral cortex | neuronal cells,Hippocampus | neuronal cells,0.5474624579577533,Caudate | neuronal cells
+Hippocampus | neuronal cells,Cerebral cortex | neuronal cells,0.5474624579577533,Caudate | neuronal cells
+Caudate | neuronal cells,Hippocampus | neuronal cells,0.542669983435223,Cerebral cortex | neuronal cells
+Nasopharynx | respiratory epithelial cells,Bronchus | respiratory epithelial cells,0.5269427976962207,Urinary bladder | urothelial cells
+Bronchus | respiratory epithelial cells,Nasopharynx | respiratory epithelial cells,0.5269427976962207,Rectum | glandular cells
+Cerebral cortex | glial cells,Caudate | glial cells,0.5084421689695665,Hippocampus | glial cells
+Tonsil | germinal center cells,Lymph node | germinal center cells,0.4996645699480385,Tonsil | non-germinal center cells
+Lymph node | germinal center cells,Tonsil | germinal center cells,0.4996645699480385,Appendix | lymphoid tissue
+Vagina | squamous epithelial cells,Cervix | squamous epithelial cells,0.498986278443442,Esophagus | squamous epithelial cells
+Cervix | squamous epithelial cells,Vagina | squamous epithelial cells,0.498986278443442,Esophagus | squamous epithelial cells
+Adipose tissue | adipocytes,Breast | adipocytes,0.4810094411477806,Soft tissue | fibroblasts
+Breast | adipocytes,Adipose tissue | adipocytes,0.4810094411477806,Ovary | ovarian stroma cells
+Stomach | glandular cells,Duodenum | glandular cells,0.46100281389245923,Small intestine | glandular cells
+Esophagus | squamous epithelial cells,Vagina | squamous epithelial cells,0.4480618383386635,Oral mucosa | squamous epithelial cells
+Skin | fibroblasts,Soft tissue | fibroblasts,0.445353812125786,Skin | melanocytes
+Soft tissue | fibroblasts,Skin | fibroblasts,0.445353812125786,Adipose tissue | adipocytes
+Appendix | lymphoid tissue,Lymph node | germinal center cells,0.4302973543234585,Tonsil | germinal center cells
+Oral mucosa | squamous epithelial cells,Esophagus | squamous epithelial cells,0.4184345563155584,Vagina | squamous epithelial cells
+Gallbladder | glandular cells,Rectum | glandular cells,0.4160291100606068,Stomach | glandular cells
+Skin | Langerhans,Skin | melanocytes,0.4005344938322077,Skin | keratinocytes
+Skin | melanocytes,Skin | Langerhans,0.4005344938322077,Skin | keratinocytes
+Spleen | cells in red pulp,Spleen | cells in white pulp,0.37147613611950286,Lymph node | non-germinal center cells
+Spleen | cells in white pulp,Spleen | cells in red pulp,0.37147613611950286,Lymph node | germinal center cells
+Heart muscle | cardiomyocytes,Skeletal muscle | myocytes,0.3661020191468244,Smooth muscle | smooth muscle cells
+Skeletal muscle | myocytes,Heart muscle | cardiomyocytes,0.3661020191468244,Smooth muscle | smooth muscle cells
+Cerebellum | Purkinje cells,Hippocampus | neuronal cells,0.34575254772550007,Cerebral cortex | neuronal cells
+Skin | epidermal cells,Skin | keratinocytes,0.3427886601962135,Vagina | squamous epithelial cells
+Skin | keratinocytes,Skin | epidermal cells,0.3427886601962135,Skin | melanocytes
+Urinary bladder | urothelial cells,Rectum | glandular cells,0.33375676865528875,Nasopharynx | respiratory epithelial cells
+Kidney | cells in tubules,Gallbladder | glandular cells,0.3227227510402429,Small intestine | glandular cells
+Fallopian tube | glandular cells,Endometrium | glandular cells,0.32042110864740436,Bronchus | respiratory epithelial cells
+Endometrium | glandular cells,Fallopian tube | glandular cells,0.32042110864740436,Bronchus | respiratory epithelial cells
+Bone marrow | hematopoietic cells,Spleen | cells in red pulp,0.30859029787093056,Lymph node | non-germinal center cells
+Cerebellum | cells in molecular layer,Cerebellum | cells in granular layer,0.2980635468538542,Cerebral cortex | glial cells
+Cerebellum | cells in granular layer,Cerebellum | cells in molecular layer,0.2980635468538542,Hippocampus | glial cells
+Seminal vesicle | glandular cells,Epididymis | glandular cells,0.2952846364791212,Fallopian tube | glandular cells
+Epididymis | glandular cells,Seminal vesicle | glandular cells,0.2952846364791212,Gallbladder | glandular cells
+Endometrium | cells in endometrial stroma,Ovary | ovarian stroma cells,0.2936214064084119,Kidney | cells in glomeruli
+Ovary | ovarian stroma cells,Endometrium | cells in endometrial stroma,0.2936214064084119,Breast | adipocytes
+Tonsil | squamous epithelial cells,Oral mucosa | squamous epithelial cells,0.28241442853461796,Esophagus | squamous epithelial cells
+Colon | endothelial cells,Cerebral cortex | endothelial cells,0.2662485495885582,Colon | peripheral nerve/ganglion
+Cerebral cortex | endothelial cells,Colon | endothelial cells,0.2662485495885582,Breast | adipocytes
+Placenta | trophoblastic cells,Placenta | decidual cells,0.25437913381635235,Thyroid gland | glandular cells
+Placenta | decidual cells,Placenta | trophoblastic cells,0.25437913381635235,Testis | cells in seminiferous ducts
+Adrenal gland | glandular cells,Thyroid gland | glandular cells,0.24963600738188474,Gallbladder | glandular cells
+Thyroid gland | glandular cells,Adrenal gland | glandular cells,0.24963600738188474,Bronchus | respiratory epithelial cells
+Pancreas | exocrine glandular cells,Gallbladder | glandular cells,0.24773208337335645,Appendix | glandular cells
+Breast | glandular cells,Fallopian tube | glandular cells,0.2182959510345111,Breast | myoepithelial cells
+Soft tissue | peripheral nerve,Soft tissue | fibroblasts,0.21773056243011293,Adipose tissue | adipocytes
+Breast | myoepithelial cells,Breast | glandular cells,0.2129684737663127,Skin | fibroblasts
+Prostate | glandular cells,Seminal vesicle | glandular cells,0.21165445492020143,Fallopian tube | glandular cells
+Soft tissue | chondrocytes,Soft tissue | fibroblasts,0.2027366007838449,Skin | fibroblasts
+Salivary gland | glandular cells,Breast | glandular cells,0.19817603785841256,Bronchus | respiratory epithelial cells
+Kidney | cells in glomeruli,Ovary | ovarian stroma cells,0.18446003118931636,Endometrium | cells in endometrial stroma
+Smooth muscle | smooth muscle cells,Skeletal muscle | myocytes,0.17397708107560275,Heart muscle | cardiomyocytes
+Testis | Leydig cells,Adrenal gland | glandular cells,0.16225343534970407,Testis | cells in seminiferous ducts
+Lung | alveolar cells,Ovary | ovarian stroma cells,0.16217242072503285,Kidney | cells in glomeruli
+Testis | cells in seminiferous ducts,Testis | Leydig cells,0.16013016794620286,Fallopian tube | glandular cells
+Colon | peripheral nerve/ganglion,Colon | endothelial cells,0.15837498700193708,Soft tissue | peripheral nerve
+Cervix | glandular cells,Fallopian tube | glandular cells,0.1520966659033485,Endometrium | glandular cells
+Liver | hepatocytes,Liver | cholangiocytes,0.1486503292101639,Kidney | cells in tubules
+Liver | cholangiocytes,Liver | hepatocytes,0.1486503292101639,Ovary | ovarian stroma cells
+Parathyroid gland | glandular cells,Pancreas | pancreatic endocrine cells,0.11988768928255299,Thyroid gland | glandular cells
+Pancreas | pancreatic endocrine cells,Parathyroid gland | glandular cells,0.11988768928255299,Cerebellum | Purkinje cells
+Ovary | follicle cells,Testis | cells in seminiferous ducts,0.09901303867651055,Soft tissue | chondrocytes
+Lung | macrophages,Bone marrow | hematopoietic cells,0.07997829770993878,Lymph node | non-germinal center cells

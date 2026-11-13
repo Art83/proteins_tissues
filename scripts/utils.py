@@ -13,6 +13,7 @@ def load_labels(split="split_pair"):
     parts = {name: labels[labels[split] == name].reset_index(drop=True) for name in ["train", "val", "test"]}
     return labels, genes, contexts, parts
 
+
 def within_auc_parts(y, p, groups):
     # Per group, u = number of positive-negative pairs ranked correctly (ties count half) and w = n_pos * n_neg.
     df = pd.DataFrame({"y": np.asarray(y).astype(np.int64), "p": np.asarray(p), "grp": np.asarray(groups)})
@@ -40,3 +41,4 @@ def metrics(y, p, g, c):
         "auc_within_gene": within_auc(y, p, g)[0],
         "auc_within_context": within_auc(y, p, c)[0],
     }
+
