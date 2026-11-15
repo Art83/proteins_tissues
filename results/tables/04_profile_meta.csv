@@ -1,0 +1,49 @@
+profile_id,source,files,cells,n_cells,donors,library_size,kept
+brain:Caudate | glial cells,brain,Caudate,Caudate | glial cells,2637,3,14355899.0,True
+brain:Caudate | neuronal cells,brain,Caudate,Caudate | neuronal cells,29889,3,907635072.0,True
+brain:Cerebellum | cells in granular layer,brain,Cerebellum CBL; Cerebellum CBV,Cerebellum | cells in granular layer,69023,3,337770320.0,True
+brain:Cerebellum | cells in molecular layer,brain,Cerebellum CBL; Cerebellum CBV,Cerebellum | cells in molecular layer,10349,3,132364314.0,True
+brain:Cerebral cortex | endothelial cells,brain,cerebral cortex A1C; cerebral cortex M1C; cerebral cortex MTG; cerebral cortex S1C; cerebral cortex STG; cerebral cortex V1C,Cerebral cortex | endothelial cells,262,4,815301.0,True
+brain:Cerebral cortex | glial cells,brain,cerebral cortex A1C; cerebral cortex M1C; cerebral cortex MTG; cerebral cortex S1C; cerebral cortex STG; cerebral cortex V1C,Cerebral cortex | glial cells,49125,4,221925352.0,True
+brain:Cerebral cortex | neuronal cells,brain,cerebral cortex A1C; cerebral cortex M1C; cerebral cortex MTG; cerebral cortex S1C; cerebral cortex STG; cerebral cortex V1C,Cerebral cortex | neuronal cells,318906,4,6904449046.0,True
+brain:Hippocampus | glial cells,brain,Hippocampal CA4-DGC,Hippocampus | glial cells,19314,3,95631492.0,True
+brain:Hippocampus | neuronal cells,brain,Hippocampal CA1-3; Hippocampal CA4-DG; Hippocampal CA4-DGC; Hippocampal DG,Hippocampus | neuronal cells,157384,3,5027693100.0,True
+ts:bladder:bladder urothelial cell,ts,bladder.h5ad,bladder urothelial cell,26663,6,844644645.0,True
+ts:bone_marrow:hematopoietic stem cell; hematopoietic precursor cell; common myeloid progenitor; erythroid progenitor cell,ts,bone_marrow.h5ad,hematopoietic stem cell; hematopoietic precursor cell; common myeloid progenitor; erythroid progenitor cell,3488,6,102906882.0,True
+ts:fat:fibroblast,ts,fat.h5ad,fibroblast,25777,6,432546229.0,True
+ts:heart:regular atrial cardiac myocyte; ventricular cardiac muscle cell,ts,heart.h5ad,regular atrial cardiac myocyte; ventricular cardiac muscle cell,8366,5,183826169.0,True
+ts:kidney:kidney epithelial cell,ts,kidney.h5ad,kidney epithelial cell,9126,1,100434421.0,True
+ts:l.intestine:colon endothelial cell,ts,l.intestine.h5ad,colon endothelial cell,256,5,2867353.0,True
+ts:l.intestine:enterocyte of epithelium of large intestine; large intestine goblet cell,ts,l.intestine.h5ad,enterocyte of epithelium of large intestine; large intestine goblet cell,5225,5,76529417.0,True
+ts:l.intestine:enteroglial cell,ts,l.intestine.h5ad,enteroglial cell,804,5,4844785.0,True
+ts:liver:hepatocyte,ts,liver.h5ad,hepatocyte,7400,4,126720491.0,True
+ts:liver:intrahepatic cholangiocyte,ts,liver.h5ad,intrahepatic cholangiocyte,612,4,6869580.0,True
+ts:lung:macrophage,ts,lung.h5ad,macrophage,16341,4,356236431.0,True
+ts:lung:type i pneumocyte; type ii pneumocyte,ts,lung.h5ad,type i pneumocyte; type ii pneumocyte,13891,4,397569094.0,True
+ts:lymph_node:b cell,ts,lymph_node.h5ad,b cell,53717,6,411412008.0,True
+"ts:lymph_node:b cell; cd4-positive, alpha-beta t cell; cd8-positive, alpha-beta t cell; t cell",ts,lymph_node.h5ad,"b cell; cd4-positive, alpha-beta t cell; cd8-positive, alpha-beta t cell; t cell",108486,6,752212995.0,True
+"ts:lymph_node:cd4-positive, alpha-beta t cell; cd8-positive, alpha-beta t cell; t cell; natural killer cell",ts,lymph_node.h5ad,"cd4-positive, alpha-beta t cell; cd8-positive, alpha-beta t cell; t cell; natural killer cell",56293,6,351468123.0,True
+ts:mammary:basal cell,ts,mammary.h5ad,basal cell,1813,2,14427044.0,True
+ts:mammary:luminal epithelial cell of mammary gland,ts,mammary.h5ad,luminal epithelial cell of mammary gland,15332,2,272662307.0,True
+ts:muscle:fast muscle cell; slow muscle cell,ts,muscle.h5ad,fast muscle cell; slow muscle cell,551,5,4204622.0,True
+ts:ovary:granulosa cell; theca cell,ts,ovary.h5ad,granulosa cell; theca cell,1679,3,48485306.0,True
+ts:ovary:stromal cell of ovary,ts,ovary.h5ad,stromal cell of ovary,35003,3,321915026.0,True
+ts:pancreas:pancreatic acinar cell,ts,pancreas.h5ad,pancreatic acinar cell,5482,2,233745056.0,True
+ts:pancreas:type b pancreatic cell; pancreatic a cell; pancreatic d cell; pancreatic pp cell,ts,pancreas.h5ad,type b pancreatic cell; pancreatic a cell; pancreatic d cell; pancreatic pp cell,161,2,5665769.0,True
+ts:prostate:luminal cell of prostate epithelium; basal cell of prostate epithelium,ts,prostate.h5ad,luminal cell of prostate epithelium; basal cell of prostate epithelium,13717,3,215871044.0,True
+ts:s.intestine:enterocyte of epithelium proper of duodenum,ts,s.intestine.h5ad,enterocyte of epithelium proper of duodenum,13494,5,227176456.0,True
+ts:s.intestine:enterocyte of epithelium proper of ileum; enterocyte of epithelium proper of small intestine; enterocyte of epithelium proper of jejunum; small intestine goblet cell,ts,s.intestine.h5ad,enterocyte of epithelium proper of ileum; enterocyte of epithelium proper of small intestine; enterocyte of epithelium proper of jejunum; small intestine goblet cell,9460,5,205639074.0,True
+ts:salivary_gland:acinar cell of salivary gland,ts,salivary_gland.h5ad,acinar cell of salivary gland,12062,4,345447350.0,True
+ts:skin:fibroblast,ts,skin.h5ad,fibroblast,3965,4,53823879.0,True
+ts:skin:langerhans cell,ts,skin.h5ad,langerhans cell,71,3,1433837.0,True
+ts:skin:melanocyte,ts,skin.h5ad,melanocyte,77,3,681957.0,True
+"ts:spleen:b cell; cd4-positive, alpha-beta t cell; cd8-positive, alpha-beta t cell; t cell",ts,spleen.h5ad,"b cell; cd4-positive, alpha-beta t cell; cd8-positive, alpha-beta t cell; t cell",28904,6,301350345.0,True
+ts:spleen:macrophage; erythrocyte,ts,spleen.h5ad,macrophage; erythrocyte,3173,6,59811683.0,True
+ts:stomach:epithelial cell,ts,stomach.h5ad,epithelial cell,1596,3,13978578.0,True
+ts:testis:leydig cell,ts,testis.h5ad,leydig cell,10,1,41627.0,False
+ts:testis:spermatogonium; spermatocyte; spermatid; male germ cell,ts,testis.h5ad,spermatogonium; spermatocyte; spermatid; male germ cell,7259,1,101450194.0,True
+ts:tongue:stratified squamous epithelial cell,ts,tongue.h5ad,stratified squamous epithelial cell,12251,4,422202218.0,True
+ts:trachea:basal cell; ciliated columnar cell of tracheobronchial tree; tracheal goblet cell; mucus secreting cell,ts,trachea.h5ad,basal cell; ciliated columnar cell of tracheobronchial tree; tracheal goblet cell; mucus secreting cell,11067,5,168466835.0,True
+ts:uterus:epithelial cell of uterus,ts,uterus.h5ad,epithelial cell of uterus,1319,2,28645944.0,True
+ts:uterus:fibroblast,ts,uterus.h5ad,fibroblast,6311,2,91004179.0,True
+ts:vasculature:smooth muscle cell,ts,vasculature.h5ad,smooth muscle cell,8431,5,144211575.0,True

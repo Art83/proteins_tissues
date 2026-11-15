@@ -10,3 +10,7 @@ This project will attempt to solve the remaining question from hpa_to_tabula atl
 **script 3** adds an interaction term and determines the optimal number of latent factors in nn.Embeddings. logit = μ + b(g) + d(c) + u(g) · v(c). AUC within gene grew to 0.83 which is 11% gain attributed to gene*context interaction
 
 **script 3b** explains what drives the model in script 03 and why the fancy model is essentially not needed. We have comparable AUC just using similarity of the contexts
+
+**script 04** gives each HPA context an RNA profile, so later scripts can ask how similar two cell types are by RNA and how much of a gene’s own mRNA each one has.
+
+profile(gene, context) = log(1 + 1,000,000 × counts(gene, context) / total counts(context))

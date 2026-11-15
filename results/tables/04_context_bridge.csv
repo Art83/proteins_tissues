@@ -1,0 +1,76 @@
+context,tissue,cell_type,profile_id,status,note,n_cells,donors,profile_shared_by
+Adipose tissue | adipocytes,Adipose tissue,adipocytes,,none,,,,
+Adrenal gland | glandular cells,Adrenal gland,glandular cells,,none,,,,
+Appendix | glandular cells,Appendix,glandular cells,ts:l.intestine:enterocyte of epithelium of large intestine; large intestine goblet cell,proxy,same profile as Colon,5225.0,5.0,3.0
+Appendix | lymphoid tissue,Appendix,lymphoid tissue,"ts:lymph_node:b cell; cd4-positive, alpha-beta t cell; cd8-positive, alpha-beta t cell; t cell",proxy,no appendix file,108486.0,6.0,1.0
+Bone marrow | hematopoietic cells,Bone marrow,hematopoietic cells,ts:bone_marrow:hematopoietic stem cell; hematopoietic precursor cell; common myeloid progenitor; erythroid progenitor cell,match,,3488.0,6.0,1.0
+Breast | adipocytes,Breast,adipocytes,,none,,,,
+Breast | glandular cells,Breast,glandular cells,ts:mammary:luminal epithelial cell of mammary gland,match,,15332.0,2.0,1.0
+Breast | myoepithelial cells,Breast,myoepithelial cells,ts:mammary:basal cell,match,,1813.0,2.0,1.0
+Bronchus | respiratory epithelial cells,Bronchus,respiratory epithelial cells,ts:trachea:basal cell; ciliated columnar cell of tracheobronchial tree; tracheal goblet cell; mucus secreting cell,match,trachea stands in for bronchus,11067.0,5.0,2.0
+Caudate | glial cells,Caudate,glial cells,brain:Caudate | glial cells,match,,2637.0,3.0,1.0
+Caudate | neuronal cells,Caudate,neuronal cells,brain:Caudate | neuronal cells,match,,29889.0,3.0,1.0
+Cerebellum | Purkinje cells,Cerebellum,Purkinje cells,,none,,,,
+Cerebellum | cells in granular layer,Cerebellum,cells in granular layer,brain:Cerebellum | cells in granular layer,match,,69023.0,3.0,1.0
+Cerebellum | cells in molecular layer,Cerebellum,cells in molecular layer,brain:Cerebellum | cells in molecular layer,match,,10349.0,3.0,1.0
+Cerebral cortex | endothelial cells,Cerebral cortex,endothelial cells,brain:Cerebral cortex | endothelial cells,match,,262.0,4.0,1.0
+Cerebral cortex | glial cells,Cerebral cortex,glial cells,brain:Cerebral cortex | glial cells,match,,49125.0,4.0,1.0
+Cerebral cortex | neuronal cells,Cerebral cortex,neuronal cells,brain:Cerebral cortex | neuronal cells,match,,318906.0,4.0,1.0
+Cervix | glandular cells,Cervix,glandular cells,,none,,,,
+Cervix | squamous epithelial cells,Cervix,squamous epithelial cells,ts:tongue:stratified squamous epithelial cell,proxy,no cervix file,12251.0,4.0,7.0
+Colon | endothelial cells,Colon,endothelial cells,ts:l.intestine:colon endothelial cell,match,,256.0,5.0,1.0
+Colon | glandular cells,Colon,glandular cells,ts:l.intestine:enterocyte of epithelium of large intestine; large intestine goblet cell,match,,5225.0,5.0,3.0
+Colon | peripheral nerve/ganglion,Colon,peripheral nerve/ganglion,ts:l.intestine:enteroglial cell,match,enteric glia only; no enteric neurons annotated,804.0,5.0,1.0
+Duodenum | glandular cells,Duodenum,glandular cells,ts:s.intestine:enterocyte of epithelium proper of duodenum,match,,13494.0,5.0,1.0
+Endometrium | cells in endometrial stroma,Endometrium,cells in endometrial stroma,ts:uterus:fibroblast,match,endometrial stromal cells are annotated as fibroblast in the uterus file,6311.0,2.0,2.0
+Endometrium | glandular cells,Endometrium,glandular cells,ts:uterus:epithelial cell of uterus,match,,1319.0,2.0,1.0
+Epididymis | glandular cells,Epididymis,glandular cells,,none,,,,
+Esophagus | squamous epithelial cells,Esophagus,squamous epithelial cells,ts:tongue:stratified squamous epithelial cell,proxy,no oesophagus file,12251.0,4.0,7.0
+Fallopian tube | glandular cells,Fallopian tube,glandular cells,,none,,,,
+Gallbladder | glandular cells,Gallbladder,glandular cells,,none,,,,
+Heart muscle | cardiomyocytes,Heart muscle,cardiomyocytes,ts:heart:regular atrial cardiac myocyte; ventricular cardiac muscle cell,match,,8366.0,5.0,1.0
+Hippocampus | glial cells,Hippocampus,glial cells,brain:Hippocampus | glial cells,match,,19314.0,3.0,1.0
+Hippocampus | neuronal cells,Hippocampus,neuronal cells,brain:Hippocampus | neuronal cells,match,,157384.0,3.0,1.0
+Kidney | cells in glomeruli,Kidney,cells in glomeruli,,none,,,,
+Kidney | cells in tubules,Kidney,cells in tubules,ts:kidney:kidney epithelial cell,match,kidney epithelium is not split by segment,9126.0,1.0,1.0
+Liver | cholangiocytes,Liver,cholangiocytes,ts:liver:intrahepatic cholangiocyte,match,,612.0,4.0,1.0
+Liver | hepatocytes,Liver,hepatocytes,ts:liver:hepatocyte,match,,7400.0,4.0,1.0
+Lung | alveolar cells,Lung,alveolar cells,ts:lung:type i pneumocyte; type ii pneumocyte,match,,13891.0,4.0,1.0
+Lung | macrophages,Lung,macrophages,ts:lung:macrophage,match,,16341.0,4.0,1.0
+Lymph node | germinal center cells,Lymph node,germinal center cells,ts:lymph_node:b cell,match,B cells are not split into germinal centre and naive,53717.0,6.0,2.0
+Lymph node | non-germinal center cells,Lymph node,non-germinal center cells,"ts:lymph_node:cd4-positive, alpha-beta t cell; cd8-positive, alpha-beta t cell; t cell; natural killer cell",match,,56293.0,6.0,2.0
+Nasopharynx | respiratory epithelial cells,Nasopharynx,respiratory epithelial cells,ts:trachea:basal cell; ciliated columnar cell of tracheobronchial tree; tracheal goblet cell; mucus secreting cell,proxy,same profile as Bronchus,11067.0,5.0,2.0
+Oral mucosa | squamous epithelial cells,Oral mucosa,squamous epithelial cells,ts:tongue:stratified squamous epithelial cell,match,tongue stands in for oral mucosa,12251.0,4.0,7.0
+Ovary | ovarian stroma cells,Ovary,ovarian stroma cells,ts:ovary:stromal cell of ovary,match,,35003.0,3.0,1.0
+Pancreas | exocrine glandular cells,Pancreas,exocrine glandular cells,ts:pancreas:pancreatic acinar cell,match,,5482.0,2.0,1.0
+Pancreas | pancreatic endocrine cells,Pancreas,pancreatic endocrine cells,ts:pancreas:type b pancreatic cell; pancreatic a cell; pancreatic d cell; pancreatic pp cell,match,,161.0,2.0,1.0
+Parathyroid gland | glandular cells,Parathyroid gland,glandular cells,,none,,,,
+Placenta | decidual cells,Placenta,decidual cells,ts:uterus:fibroblast,proxy,decidual cells are decidualised endometrial stroma; non-pregnant stroma is a weak stand-in,6311.0,2.0,2.0
+Placenta | trophoblastic cells,Placenta,trophoblastic cells,,none,,,,
+Prostate | glandular cells,Prostate,glandular cells,ts:prostate:luminal cell of prostate epithelium; basal cell of prostate epithelium,match,,13717.0,3.0,1.0
+Rectum | glandular cells,Rectum,glandular cells,ts:l.intestine:enterocyte of epithelium of large intestine; large intestine goblet cell,proxy,same profile as Colon,5225.0,5.0,3.0
+Salivary gland | glandular cells,Salivary gland,glandular cells,ts:salivary_gland:acinar cell of salivary gland,match,,12062.0,4.0,1.0
+Seminal vesicle | glandular cells,Seminal vesicle,glandular cells,,none,,,,
+Skeletal muscle | myocytes,Skeletal muscle,myocytes,ts:muscle:fast muscle cell; slow muscle cell,match,,551.0,5.0,1.0
+Skin | Langerhans,Skin,Langerhans,ts:skin:langerhans cell,match,,71.0,3.0,1.0
+Skin | epidermal cells,Skin,epidermal cells,ts:tongue:stratified squamous epithelial cell,proxy,no epidermis in the skin file,12251.0,4.0,7.0
+Skin | fibroblasts,Skin,fibroblasts,ts:skin:fibroblast,match,,3965.0,4.0,1.0
+Skin | keratinocytes,Skin,keratinocytes,ts:tongue:stratified squamous epithelial cell,proxy,no epidermis in the skin file,12251.0,4.0,7.0
+Skin | melanocytes,Skin,melanocytes,ts:skin:melanocyte,match,,77.0,3.0,1.0
+Small intestine | glandular cells,Small intestine,glandular cells,ts:s.intestine:enterocyte of epithelium proper of ileum; enterocyte of epithelium proper of small intestine; enterocyte of epithelium proper of jejunum; small intestine goblet cell,match,,9460.0,5.0,1.0
+Smooth muscle | smooth muscle cells,Smooth muscle,smooth muscle cells,ts:vasculature:smooth muscle cell,proxy,HPA smooth muscle tissue is not vascular; nearest large smooth muscle population,8431.0,5.0,1.0
+Soft tissue | fibroblasts,Soft tissue,fibroblasts,ts:fat:fibroblast,proxy,no soft tissue file,25777.0,6.0,1.0
+Soft tissue | peripheral nerve,Soft tissue,peripheral nerve,,none,,,,
+Spleen | cells in red pulp,Spleen,cells in red pulp,ts:spleen:macrophage; erythrocyte,match,HPA red pulp is a mixed region; choice follows the atlas bridge,3173.0,6.0,1.0
+Spleen | cells in white pulp,Spleen,cells in white pulp,"ts:spleen:b cell; cd4-positive, alpha-beta t cell; cd8-positive, alpha-beta t cell; t cell",match,mixed region,28904.0,6.0,1.0
+Stomach | glandular cells,Stomach,glandular cells,ts:stomach:epithelial cell,match,,1596.0,3.0,1.0
+Testis | Leydig cells,Testis,Leydig cells,,too few cells,very few cells,10.0,1.0,
+Testis | cells in seminiferous ducts,Testis,cells in seminiferous ducts,ts:testis:spermatogonium; spermatocyte; spermatid; male germ cell,match,no Sertoli cells annotated,7259.0,1.0,1.0
+Thyroid gland | glandular cells,Thyroid gland,glandular cells,,none,,,,
+Tonsil | germinal center cells,Tonsil,germinal center cells,ts:lymph_node:b cell,proxy,no tonsil file,53717.0,6.0,2.0
+Tonsil | non-germinal center cells,Tonsil,non-germinal center cells,"ts:lymph_node:cd4-positive, alpha-beta t cell; cd8-positive, alpha-beta t cell; t cell; natural killer cell",proxy,no tonsil file,56293.0,6.0,2.0
+Tonsil | squamous epithelial cells,Tonsil,squamous epithelial cells,ts:tongue:stratified squamous epithelial cell,proxy,no tonsil file,12251.0,4.0,7.0
+Urinary bladder | urothelial cells,Urinary bladder,urothelial cells,ts:bladder:bladder urothelial cell,match,,26663.0,6.0,1.0
+Vagina | squamous epithelial cells,Vagina,squamous epithelial cells,ts:tongue:stratified squamous epithelial cell,proxy,no vagina file,12251.0,4.0,7.0
+Ovary | follicle cells,Ovary,follicle cells,ts:ovary:granulosa cell; theca cell,match,,1679.0,3.0,1.0
+Soft tissue | chondrocytes,Soft tissue,chondrocytes,,none,,,,
