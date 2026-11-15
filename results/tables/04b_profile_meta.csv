@@ -1,0 +1,49 @@
+profile_id,source,files,cells,reads,library_size,kept
+hpa:adipose tissue:adipocytes,hpa,adipose tissue,adipocytes,73902030,73902030.0,True
+hpa:adrenal gland:adrenal cortex cells,hpa,adrenal gland,adrenal cortex cells,1725491,1725491.0,True
+hpa:colon:colonocytes; goblet cells,hpa,colon,colonocytes; goblet cells,35145673,35145673.0,True
+hpa:lymph node:b-cells; t-cells,hpa,lymph node,b-cells; t-cells,345121583,345121583.0,True
+hpa:bone marrow:hematopoietic stem cells; multipotent progenitors; megakaryocyte-erythroid progenitors; erythrocyte progenitors; megakaryocyte progenitors; monocyte progenitors; neutrophil progenitors,hpa,bone marrow,hematopoietic stem cells; multipotent progenitors; megakaryocyte-erythroid progenitors; erythrocyte progenitors; megakaryocyte progenitors; monocyte progenitors; neutrophil progenitors,38566471,38566471.0,True
+hpa:breast:breast hormone-responsive cells; breast secretory cells,hpa,breast,breast hormone-responsive cells; breast secretory cells,59022420,59022420.0,True
+hpa:breast:breast myoepithelial cells,hpa,breast,breast myoepithelial cells,1091262,1091262.0,True
+hpa:lung:respiratory basal cells; respiratory ciliated cells; respiratory secretory cells,hpa,lung,respiratory basal cells; respiratory ciliated cells; respiratory secretory cells,44771002,44771002.0,True
+hpa:brain neurons:brain excitatory neurons; brain inhibitory neurons; other brain neurons,hpa,brain neurons,brain excitatory neurons; brain inhibitory neurons; other brain neurons,2193095980,2193095980.0,True
+hpa:brain non-neurons:astrocytes; oligodendrocytes; oligodendrocyte progenitor cells; microglia,hpa,brain non-neurons,astrocytes; oligodendrocytes; oligodendrocyte progenitor cells; microglia,149835572,149835572.0,True
+hpa:brain non-neurons:vascular endothelial cells,hpa,brain non-neurons,vascular endothelial cells,7752778,7752778.0,True
+hpa:esophagus:esophageal basal cells; esophageal suprabasal cells; esophageal apical cells,hpa,esophagus,esophageal basal cells; esophageal suprabasal cells; esophageal apical cells,839614838,839614838.0,True
+hpa:tongue:basal keratinocytes; suprabasal keratinocytes,hpa,tongue,basal keratinocytes; suprabasal keratinocytes,422589963,422589963.0,True
+hpa:rectum:colonocytes; goblet cells,hpa,rectum,colonocytes; goblet cells,37501804,37501804.0,True
+hpa:small intestine:enterocytes; goblet cells,hpa,small intestine,enterocytes; goblet cells,36250523,36250523.0,True
+hpa:endometrium:endometrial stromal cells,hpa,endometrium,endometrial stromal cells,169121185,169121185.0,True
+hpa:endometrium:endometrial glandular cells,hpa,endometrium,endometrial glandular cells,328444613,328444613.0,True
+hpa:epididymis:epididymal principal cells; epididymal basal cells; epididymal clear cells,hpa,epididymis,epididymal principal cells; epididymal basal cells; epididymal clear cells,111140591,111140591.0,True
+hpa:fallopian tube:fallopian secretory cells; fallopian tube ciliated cells,hpa,fallopian tube,fallopian secretory cells; fallopian tube ciliated cells,197022445,197022445.0,True
+hpa:heart muscle:cardiomyocytes,hpa,heart muscle,cardiomyocytes,42093671,42093671.0,True
+hpa:kidney:podocytes; mesangial cells; parietal epithelial cells,hpa,kidney,podocytes; mesangial cells; parietal epithelial cells,5262560,5262560.0,True
+hpa:kidney:proximal tubule cells; loop of henle epithelial cells; distal convoluted tubule cells; renal connecting tubule cells; renal collecting duct principal cells; renal collecting duct intercalated cells,hpa,kidney,proximal tubule cells; loop of henle epithelial cells; distal convoluted tubule cells; renal connecting tubule cells; renal collecting duct principal cells; renal collecting duct intercalated cells,197908409,197908409.0,True
+hpa:liver:cholangiocytes,hpa,liver,cholangiocytes,506609,506609.0,True
+hpa:liver:hepatocytes,hpa,liver,hepatocytes,17103131,17103131.0,True
+hpa:lung:alveolar cells type 1; alveolar cells type 2,hpa,lung,alveolar cells type 1; alveolar cells type 2,267505110,267505110.0,True
+hpa:lung:macrophages,hpa,lung,macrophages,244626885,244626885.0,True
+hpa:lymph node:b-cells,hpa,lymph node,b-cells,185114878,185114878.0,True
+hpa:lymph node:t-cells; nk-cells,hpa,lymph node,t-cells; nk-cells,163026732,163026732.0,True
+hpa:ovary:granulosa cells,hpa,ovary,granulosa cells,1126851,1126851.0,True
+hpa:ovary:ovarian stromal cells,hpa,ovary,ovarian stromal cells,72218243,72218243.0,True
+hpa:pancreas:pancreatic acinar cells,hpa,pancreas,pancreatic acinar cells,35504823,35504823.0,True
+hpa:pancreas:pancreatic islet cells,hpa,pancreas,pancreatic islet cells,88306223,88306223.0,True
+hpa:placenta:decidual stromal cells,hpa,placenta,decidual stromal cells,15840805,15840805.0,True
+hpa:placenta:cytotrophoblasts; syncytiotrophoblasts; extravillous trophoblasts; migrating cytotrophoblasts,hpa,placenta,cytotrophoblasts; syncytiotrophoblasts; extravillous trophoblasts; migrating cytotrophoblasts,259047817,259047817.0,True
+hpa:prostate:prostatic glandular cells; basal prostatic cells,hpa,prostate,prostatic glandular cells; basal prostatic cells,32814670,32814670.0,True
+hpa:salivary gland:salivary acinar cells,hpa,salivary gland,salivary acinar cells,248182211,248182211.0,True
+hpa:skeletal muscle:myonuclei,hpa,skeletal muscle,myonuclei,82667592,82667592.0,True
+hpa:skin:basal keratinocytes; suprabasal keratinocytes,hpa,skin,basal keratinocytes; suprabasal keratinocytes,7842052,7842052.0,True
+hpa:skin:fibroblasts,hpa,skin,fibroblasts,14524888,14524888.0,True
+hpa:skin:melanocytes,hpa,skin,melanocytes,206400,206400.0,True
+hpa:urinary bladder:smooth muscle cells,hpa,urinary bladder,smooth muscle cells,6757969,6757969.0,True
+hpa:adipose tissue:fibro-adipogenic progenitors,hpa,adipose tissue,fibro-adipogenic progenitors,31887035,31887035.0,True
+hpa:spleen:macrophages; erythrocytes,hpa,spleen,macrophages; erythrocytes,27670783,27670783.0,True
+hpa:spleen:b-cells; t-cells,hpa,spleen,b-cells; t-cells,170337043,170337043.0,True
+hpa:stomach:foveolar cells; mucous neck cells; gastric chief cells; parietal cells,hpa,stomach,foveolar cells; mucous neck cells; gastric chief cells; parietal cells,6140620,6140620.0,True
+hpa:testis:leydig cells,hpa,testis,leydig cells,8788126,8788126.0,True
+hpa:testis:undifferentiated spermatogonia; differentiating spermatogonia; early primary spermatocytes; late primary spermatocytes; early spermatids; late spermatids; sertoli cells,hpa,testis,undifferentiated spermatogonia; differentiating spermatogonia; early primary spermatocytes; late primary spermatocytes; early spermatids; late spermatids; sertoli cells,69908382,69908382.0,True
+hpa:urinary bladder:urothelial cells,hpa,urinary bladder,urothelial cells,478926193,478926193.0,True

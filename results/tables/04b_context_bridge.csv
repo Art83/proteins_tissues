@@ -1,0 +1,76 @@
+context,tissue,cell_type,profile_id,status,note,reads,profile_shared_by
+Adipose tissue | adipocytes,Adipose tissue,adipocytes,hpa:adipose tissue:adipocytes,match,,73902030.0,2.0
+Adrenal gland | glandular cells,Adrenal gland,glandular cells,hpa:adrenal gland:adrenal cortex cells,match,medulla cells left out,1725491.0,1.0
+Appendix | glandular cells,Appendix,glandular cells,hpa:colon:colonocytes; goblet cells,proxy,no appendix; same profile as Colon,35145673.0,2.0
+Appendix | lymphoid tissue,Appendix,lymphoid tissue,hpa:lymph node:b-cells; t-cells,proxy,no appendix; shares cells with the lymph node contexts,345121583.0,1.0
+Bone marrow | hematopoietic cells,Bone marrow,hematopoietic cells,hpa:bone marrow:hematopoietic stem cells; multipotent progenitors; megakaryocyte-erythroid progenitors; erythrocyte progenitors; megakaryocyte progenitors; monocyte progenitors; neutrophil progenitors,match,"progenitors, as in the Tabula Sapiens bridge",38566471.0,1.0
+Breast | adipocytes,Breast,adipocytes,hpa:adipose tissue:adipocytes,proxy,no breast adipocytes; same profile as Adipose tissue,73902030.0,2.0
+Breast | glandular cells,Breast,glandular cells,hpa:breast:breast hormone-responsive cells; breast secretory cells,match,lactating cells left out,59022420.0,1.0
+Breast | myoepithelial cells,Breast,myoepithelial cells,hpa:breast:breast myoepithelial cells,match,,1091262.0,1.0
+Bronchus | respiratory epithelial cells,Bronchus,respiratory epithelial cells,hpa:lung:respiratory basal cells; respiratory ciliated cells; respiratory secretory cells,match,airway epithelium from the lung data,44771002.0,2.0
+Caudate | glial cells,Caudate,glial cells,hpa:brain non-neurons:astrocytes; oligodendrocytes; oligodendrocyte progenitor cells; microglia,proxy,no brain regions; one glial profile for all regions,149835572.0,3.0
+Caudate | neuronal cells,Caudate,neuronal cells,hpa:brain neurons:brain excitatory neurons; brain inhibitory neurons; other brain neurons,proxy,no brain regions; one neuronal profile for all regions,2193095980.0,3.0
+Cerebellum | Purkinje cells,Cerebellum,Purkinje cells,,none,no counterpart in the single-cell data,,
+Cerebellum | cells in granular layer,Cerebellum,cells in granular layer,,none,no counterpart in the single-cell data,,
+Cerebellum | cells in molecular layer,Cerebellum,cells in molecular layer,,none,no counterpart in the single-cell data,,
+Cerebral cortex | endothelial cells,Cerebral cortex,endothelial cells,hpa:brain non-neurons:vascular endothelial cells,match,"brain endothelium, region not given",7752778.0,1.0
+Cerebral cortex | glial cells,Cerebral cortex,glial cells,hpa:brain non-neurons:astrocytes; oligodendrocytes; oligodendrocyte progenitor cells; microglia,proxy,no brain regions; one glial profile for all regions,149835572.0,3.0
+Cerebral cortex | neuronal cells,Cerebral cortex,neuronal cells,hpa:brain neurons:brain excitatory neurons; brain inhibitory neurons; other brain neurons,proxy,no brain regions; one neuronal profile for all regions,2193095980.0,3.0
+Cervix | glandular cells,Cervix,glandular cells,,none,no counterpart in the single-cell data,,
+Cervix | squamous epithelial cells,Cervix,squamous epithelial cells,hpa:esophagus:esophageal basal cells; esophageal suprabasal cells; esophageal apical cells,proxy,non-keratinised squamous epithelium,839614838.0,4.0
+Colon | endothelial cells,Colon,endothelial cells,,none,no counterpart in the single-cell data,,
+Colon | glandular cells,Colon,glandular cells,hpa:colon:colonocytes; goblet cells,match,,35145673.0,2.0
+Colon | peripheral nerve/ganglion,Colon,peripheral nerve/ganglion,,none,no counterpart in the single-cell data,,
+Duodenum | glandular cells,Duodenum,glandular cells,hpa:small intestine:enterocytes; goblet cells,proxy,segment not given; same profile as Small intestine,36250523.0,2.0
+Endometrium | cells in endometrial stroma,Endometrium,cells in endometrial stroma,hpa:endometrium:endometrial stromal cells,match,,169121185.0,1.0
+Endometrium | glandular cells,Endometrium,glandular cells,hpa:endometrium:endometrial glandular cells,match,luminal and secretory cells left out,328444613.0,1.0
+Epididymis | glandular cells,Epididymis,glandular cells,hpa:epididymis:epididymal principal cells; epididymal basal cells; epididymal clear cells,match,duct epithelium; efferent duct cells left out,111140591.0,1.0
+Esophagus | squamous epithelial cells,Esophagus,squamous epithelial cells,hpa:esophagus:esophageal basal cells; esophageal suprabasal cells; esophageal apical cells,match,,839614838.0,4.0
+Fallopian tube | glandular cells,Fallopian tube,glandular cells,hpa:fallopian tube:fallopian secretory cells; fallopian tube ciliated cells,match,,197022445.0,1.0
+Gallbladder | glandular cells,Gallbladder,glandular cells,,none,no counterpart in the single-cell data,,
+Heart muscle | cardiomyocytes,Heart muscle,cardiomyocytes,hpa:heart muscle:cardiomyocytes,match,,42093671.0,1.0
+Hippocampus | glial cells,Hippocampus,glial cells,hpa:brain non-neurons:astrocytes; oligodendrocytes; oligodendrocyte progenitor cells; microglia,proxy,no brain regions; one glial profile for all regions,149835572.0,3.0
+Hippocampus | neuronal cells,Hippocampus,neuronal cells,hpa:brain neurons:brain excitatory neurons; brain inhibitory neurons; other brain neurons,proxy,no brain regions; one neuronal profile for all regions,2193095980.0,3.0
+Kidney | cells in glomeruli,Kidney,cells in glomeruli,hpa:kidney:podocytes; mesangial cells; parietal epithelial cells,match,,5262560.0,1.0
+Kidney | cells in tubules,Kidney,cells in tubules,hpa:kidney:proximal tubule cells; loop of henle epithelial cells; distal convoluted tubule cells; renal connecting tubule cells; renal collecting duct principal cells; renal collecting duct intercalated cells,match,,197908409.0,1.0
+Liver | cholangiocytes,Liver,cholangiocytes,hpa:liver:cholangiocytes,match,,506609.0,1.0
+Liver | hepatocytes,Liver,hepatocytes,hpa:liver:hepatocytes,match,,17103131.0,1.0
+Lung | alveolar cells,Lung,alveolar cells,hpa:lung:alveolar cells type 1; alveolar cells type 2,match,,267505110.0,1.0
+Lung | macrophages,Lung,macrophages,hpa:lung:macrophages,match,,244626885.0,1.0
+Lymph node | germinal center cells,Lymph node,germinal center cells,hpa:lymph node:b-cells,match,,185114878.0,2.0
+Lymph node | non-germinal center cells,Lymph node,non-germinal center cells,hpa:lymph node:t-cells; nk-cells,match,,163026732.0,2.0
+Nasopharynx | respiratory epithelial cells,Nasopharynx,respiratory epithelial cells,hpa:lung:respiratory basal cells; respiratory ciliated cells; respiratory secretory cells,proxy,same profile as Bronchus,44771002.0,2.0
+Oral mucosa | squamous epithelial cells,Oral mucosa,squamous epithelial cells,hpa:tongue:basal keratinocytes; suprabasal keratinocytes,match,oral epithelium from tongue,422589963.0,1.0
+Ovary | ovarian stroma cells,Ovary,ovarian stroma cells,hpa:ovary:ovarian stromal cells,match,,72218243.0,1.0
+Pancreas | exocrine glandular cells,Pancreas,exocrine glandular cells,hpa:pancreas:pancreatic acinar cells,match,duct cells left out,35504823.0,1.0
+Pancreas | pancreatic endocrine cells,Pancreas,pancreatic endocrine cells,hpa:pancreas:pancreatic islet cells,match,,88306223.0,1.0
+Parathyroid gland | glandular cells,Parathyroid gland,glandular cells,,none,no counterpart in the single-cell data,,
+Placenta | decidual cells,Placenta,decidual cells,hpa:placenta:decidual stromal cells,match,,15840805.0,1.0
+Placenta | trophoblastic cells,Placenta,trophoblastic cells,hpa:placenta:cytotrophoblasts; syncytiotrophoblasts; extravillous trophoblasts; migrating cytotrophoblasts,match,,259047817.0,1.0
+Prostate | glandular cells,Prostate,glandular cells,hpa:prostate:prostatic glandular cells; basal prostatic cells,match,,32814670.0,1.0
+Rectum | glandular cells,Rectum,glandular cells,hpa:rectum:colonocytes; goblet cells,match,,37501804.0,1.0
+Salivary gland | glandular cells,Salivary gland,glandular cells,hpa:salivary gland:salivary acinar cells,match,,248182211.0,1.0
+Seminal vesicle | glandular cells,Seminal vesicle,glandular cells,,none,no counterpart in the single-cell data,,
+Skeletal muscle | myocytes,Skeletal muscle,myocytes,hpa:skeletal muscle:myonuclei,match,,82667592.0,1.0
+Skin | Langerhans,Skin,Langerhans,,none,"18,449 reads in total, too few for a stable profile",,
+Skin | epidermal cells,Skin,epidermal cells,hpa:skin:basal keratinocytes; suprabasal keratinocytes,match,same profile as Skin keratinocytes,7842052.0,2.0
+Skin | fibroblasts,Skin,fibroblasts,hpa:skin:fibroblasts,match,,14524888.0,1.0
+Skin | keratinocytes,Skin,keratinocytes,hpa:skin:basal keratinocytes; suprabasal keratinocytes,match,,7842052.0,2.0
+Skin | melanocytes,Skin,melanocytes,hpa:skin:melanocytes,match,,206400.0,1.0
+Small intestine | glandular cells,Small intestine,glandular cells,hpa:small intestine:enterocytes; goblet cells,match,,36250523.0,2.0
+Smooth muscle | smooth muscle cells,Smooth muscle,smooth muscle cells,hpa:urinary bladder:smooth muscle cells,proxy,visceral smooth muscle from bladder,6757969.0,1.0
+Soft tissue | fibroblasts,Soft tissue,fibroblasts,hpa:adipose tissue:fibro-adipogenic progenitors,proxy,no soft tissue; adipose stromal fibroblasts,31887035.0,1.0
+Soft tissue | peripheral nerve,Soft tissue,peripheral nerve,,none,"only Schwann cells from vasculature available, too weak a proxy",,
+Spleen | cells in red pulp,Spleen,cells in red pulp,hpa:spleen:macrophages; erythrocytes,match,,27670783.0,1.0
+Spleen | cells in white pulp,Spleen,cells in white pulp,hpa:spleen:b-cells; t-cells,match,,170337043.0,1.0
+Stomach | glandular cells,Stomach,glandular cells,hpa:stomach:foveolar cells; mucous neck cells; gastric chief cells; parietal cells,match,,6140620.0,1.0
+Testis | Leydig cells,Testis,Leydig cells,hpa:testis:leydig cells,match,,8788126.0,1.0
+Testis | cells in seminiferous ducts,Testis,cells in seminiferous ducts,hpa:testis:undifferentiated spermatogonia; differentiating spermatogonia; early primary spermatocytes; late primary spermatocytes; early spermatids; late spermatids; sertoli cells,match,germ cells and Sertoli cells,69908382.0,1.0
+Thyroid gland | glandular cells,Thyroid gland,glandular cells,,none,no counterpart in the single-cell data,,
+Tonsil | germinal center cells,Tonsil,germinal center cells,hpa:lymph node:b-cells,proxy,no tonsil; same profile as Lymph node,185114878.0,2.0
+Tonsil | non-germinal center cells,Tonsil,non-germinal center cells,hpa:lymph node:t-cells; nk-cells,proxy,no tonsil; same profile as Lymph node,163026732.0,2.0
+Tonsil | squamous epithelial cells,Tonsil,squamous epithelial cells,hpa:esophagus:esophageal basal cells; esophageal suprabasal cells; esophageal apical cells,proxy,non-keratinised squamous epithelium,839614838.0,4.0
+Urinary bladder | urothelial cells,Urinary bladder,urothelial cells,hpa:urinary bladder:urothelial cells,match,,478926193.0,1.0
+Vagina | squamous epithelial cells,Vagina,squamous epithelial cells,hpa:esophagus:esophageal basal cells; esophageal suprabasal cells; esophageal apical cells,proxy,non-keratinised squamous epithelium,839614838.0,4.0
+Ovary | follicle cells,Ovary,follicle cells,hpa:ovary:granulosa cells,match,,1126851.0,1.0
+Soft tissue | chondrocytes,Soft tissue,chondrocytes,,none,no counterpart in the single-cell data,,
